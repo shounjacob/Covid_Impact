@@ -32,19 +32,19 @@ Here are the queries we use to prepare our datasets for the Tableau visualizatio
 
 ### STEP 2: TABLEAU
 
-In the first worksheet, I displayed the "Total Cases", "Total Deaths", and the "Death Percentage".
+1. In the first worksheet, I displayed the "Total Cases", "Total Deaths", and the "Death Percentage".
 ![Image Not Available :(](https://github.com/shounjacob/Covid_Impact/blob/main/Covid%20Deaths%20Screenshots/TAB%201.JPG)
 
 
-In the second worksheet, I displayed the Death Count by Continent, in descending order. I used a bar chart to do this.
+2. In the second worksheet, I displayed the Death Count by Continent, in descending order. I used a bar chart to do this.
 ![Image Not Available :(](https://github.com/shounjacob/Covid_Impact/blob/main/Covid%20Deaths%20Screenshots/TAB%202.JPG)
 
 
-In the third worksheet, I displayed the "Percentage of Population Infected" for the whole world, using an *orange-gold* color scheme on a world map to represent the varying impact the virus had on different countries across the world. 
+3. In the third worksheet, I displayed the "Percentage of Population Infected" for the whole world, using an *orange-gold* color scheme on a world map to represent the varying impact the virus had on different countries across the world. 
 ![Image Not Available :(](https://github.com/shounjacob/Covid_Impact/blob/main/Covid%20Deaths%20Screenshots/TAB%203.JPG)
 
 
-And finally, in the fourth worksheet, I displayed the "Estimated vs Actual % Infected" for the top 5 countries.
+4. And finally, in the fourth worksheet, I displayed the "Estimated vs Actual % Infected" for the top 5 countries.
 ![Image Not Available :(](https://github.com/shounjacob/Covid_Impact/blob/main/Covid%20Deaths%20Screenshots/TAB%204.JPG)
 
 You can view this Tableau visualization [here](https://public.tableau.com/app/profile/shounjacob1204/viz/CovidDeaths_16896203523690/MyDashboard)
